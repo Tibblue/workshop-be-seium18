@@ -1,0 +1,30 @@
+{
+  "name": "workshop-be-seium18",
+  "version": "1.0.0",
+  "description": "Workshop Blog API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brunotiago/workshop-be-seium18.git"
+  },
+  "keywords": [
+    "workshop",
+    "seium",
+    "be",
+    "api",
+    "blo"
+  ],
+  "author": "Bruno Araújo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brunotiago/workshop-be-seium18/issues"
+  },
+  "homepage": "https://github.com/brunotiago/workshop-be-seium18#readme",
+  "dependencies": {
+    "koa": "^2.4.1",
+    "koa-router": "^7.4.0"
+  }
+}
